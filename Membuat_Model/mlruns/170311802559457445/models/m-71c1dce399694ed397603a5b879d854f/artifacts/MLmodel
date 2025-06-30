@@ -1,0 +1,33 @@
+artifact_path: file:///E:/Projects/Working/Mentor Asah 2025/Membuat_Model/mlruns/170311802559457445/models/m-71c1dce399694ed397603a5b879d854f/artifacts
+flavors:
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.sklearn
+    model_path: model.pkl
+    predict_fn: predict
+    python_version: 3.10.0
+  sklearn:
+    code: null
+    pickled_model: model.pkl
+    serialization_format: cloudpickle
+    sklearn_version: 1.7.0
+is_signature_from_type_hint: false
+mlflow_version: 3.1.1
+model_id: m-71c1dce399694ed397603a5b879d854f
+model_size_bytes: 138309
+model_uuid: m-71c1dce399694ed397603a5b879d854f
+prompts: null
+run_id: 663677e484eb4896b453de6880ce7415
+saved_input_example_info:
+  artifact_path: input_example.json
+  pandas_orient: split
+  serving_input_path: serving_input_example.json
+  type: dataframe
+signature:
+  inputs: '[{"type": "string", "name": "clean_text", "required": true}]'
+  outputs: '[{"type": "long", "required": true}]'
+  params: null
+type_hint_from_example: false
+utc_time_created: '2025-06-30 10:50:32.633948'

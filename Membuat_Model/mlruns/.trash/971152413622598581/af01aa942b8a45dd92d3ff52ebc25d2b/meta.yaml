@@ -1,0 +1,15 @@
+artifact_uri: file:///E:/Projects/Working/Mentor Asah 2025/Membuat_Model/mlruns/971152413622598581/af01aa942b8a45dd92d3ff52ebc25d2b/artifacts
+deleted_time: 1751286934081
+end_time: 1751281252094
+entry_point_name: ''
+experiment_id: '971152413622598581'
+lifecycle_stage: deleted
+run_id: af01aa942b8a45dd92d3ff52ebc25d2b
+run_name: Tuning_LogReg_Manual
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1751281145975
+status: 4
+tags: []
+user_id: keind

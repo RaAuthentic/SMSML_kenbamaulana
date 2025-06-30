@@ -1,0 +1,9 @@
+digest: 7fda9f6d
+name: dataset
+profile: '{"num_rows": 160000, "num_elements": 160000}'
+schema: '{"mlflow_colspec": [{"type": "string", "name": "clean_text", "required":
+  true}]}'
+source: '{"tags": {"mlflow.user": "keind", "mlflow.source.name": "E:\\Projects\\Working\\Mentor
+  Asah 2025\\Membuat_Model\\modelling.py", "mlflow.source.type": "LOCAL", "mlflow.source.git.commit":
+  "89f96910bee9d15d917178eeadd88aab59bd1a79"}}'
+source_type: code

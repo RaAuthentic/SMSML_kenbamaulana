@@ -1,0 +1,1 @@
+accuracy: 0.8637\nprecision: 0.8628\nrecall: 0.8633\nf1_score: 0.8630\n

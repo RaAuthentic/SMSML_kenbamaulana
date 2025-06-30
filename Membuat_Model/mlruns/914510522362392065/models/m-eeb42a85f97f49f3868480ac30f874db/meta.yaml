@@ -1,0 +1,10 @@
+artifact_location: file:///E:/Projects/Working/Mentor Asah 2025/Membuat_Model/mlruns/914510522362392065/models/m-eeb42a85f97f49f3868480ac30f874db/artifacts
+creation_timestamp: 1751292575145
+experiment_id: '914510522362392065'
+last_updated_timestamp: 1751292575564
+model_id: m-eeb42a85f97f49f3868480ac30f874db
+model_type: null
+name: model
+source_run_id: 512c1a26491443cf90525cbd934f0b98
+status: 3
+status_message: null

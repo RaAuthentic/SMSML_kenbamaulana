@@ -1,0 +1,14 @@
+artifact_uri: file:///E:/Projects/Working/Mentor Asah 2025/Membuat_Model/mlruns/170311802559457445/60dee98d54b345479b9fa1f6054e78ea/artifacts
+end_time: 1751280728811
+entry_point_name: ''
+experiment_id: '170311802559457445'
+lifecycle_stage: active
+run_id: 60dee98d54b345479b9fa1f6054e78ea
+run_name: Training_LogReg_Manual
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1751280703042
+status: 3
+tags: []
+user_id: keind

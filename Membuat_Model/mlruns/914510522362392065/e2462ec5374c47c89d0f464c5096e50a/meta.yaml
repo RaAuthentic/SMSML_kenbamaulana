@@ -1,0 +1,14 @@
+artifact_uri: file:///E:/Projects/Working/Mentor Asah 2025/Membuat_Model/mlruns/914510522362392065/e2462ec5374c47c89d0f464c5096e50a/artifacts
+end_time: 1751292282001
+entry_point_name: ''
+experiment_id: '914510522362392065'
+lifecycle_stage: active
+run_id: e2462ec5374c47c89d0f464c5096e50a
+run_name: Baseline_LogReg_Autolog
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1751292269506
+status: 3
+tags: []
+user_id: keind

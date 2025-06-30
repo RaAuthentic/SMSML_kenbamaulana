@@ -1,0 +1,18 @@
+aliases: []
+creation_timestamp: 1751282353877
+current_stage: None
+deployment_job_state: null
+description: null
+last_updated_timestamp: 1751282353877
+metrics: null
+model_id: m-d1d31d5e13c84015aad8abbd7a9e61b2
+name: LogisticModelAmazon
+params: null
+run_id: 7d16981253e641a9b20ee605728e7716
+run_link: null
+source: models:/m-d1d31d5e13c84015aad8abbd7a9e61b2
+status: READY
+status_message: null
+storage_location: file:///E:/Projects/Working/Mentor Asah 2025/Membuat_Model/mlruns/170311802559457445/models/m-d1d31d5e13c84015aad8abbd7a9e61b2/artifacts
+user_id: null
+version: 7
