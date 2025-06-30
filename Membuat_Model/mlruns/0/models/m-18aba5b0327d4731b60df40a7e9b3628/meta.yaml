@@ -1,0 +1,10 @@
+artifact_location: file:///E:/Projects/Working/Mentor%20Asah%202025/Eksperimen_SML_kenbamaulana/Membuat_Model/mlruns/0/models/m-18aba5b0327d4731b60df40a7e9b3628/artifacts
+creation_timestamp: 1750865841103
+experiment_id: '0'
+last_updated_timestamp: 1750865846480
+model_id: m-18aba5b0327d4731b60df40a7e9b3628
+model_type: null
+name: logistic_model
+source_run_id: 3a773b403b9e4c4894c2ac3a270bcf27
+status: 2
+status_message: null

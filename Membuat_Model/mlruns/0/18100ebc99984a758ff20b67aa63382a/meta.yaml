@@ -1,0 +1,14 @@
+artifact_uri: file:///E:/Projects/Working/Mentor%20Asah%202025/Eksperimen_SML_kenbamaulana/Membuat_Model/mlruns/0/18100ebc99984a758ff20b67aa63382a/artifacts
+end_time: 1751040375739
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 18100ebc99984a758ff20b67aa63382a
+run_name: Tuning Model
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1751040353905
+status: 3
+tags: []
+user_id: keind

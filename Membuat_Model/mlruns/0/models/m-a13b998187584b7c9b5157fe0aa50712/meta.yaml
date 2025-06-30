@@ -1,0 +1,10 @@
+artifact_location: file:///E:/Projects/Working/Mentor%20Asah%202025/Eksperimen_SML_kenbamaulana/Membuat_Model/mlruns/0/models/m-a13b998187584b7c9b5157fe0aa50712/artifacts
+creation_timestamp: 1751036802796
+experiment_id: '0'
+last_updated_timestamp: 1751036810891
+model_id: m-a13b998187584b7c9b5157fe0aa50712
+model_type: null
+name: logistic_model_tuned
+source_run_id: 97ae2642f5e541998b4dc745dc6d86b9
+status: 2
+status_message: null

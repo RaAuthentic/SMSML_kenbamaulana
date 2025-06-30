@@ -1,0 +1,9 @@
+digest: '55756730'
+name: dataset
+profile: '{"features_shape": [5], "features_size": 5, "features_nbytes": 13240}'
+schema: '{"mlflow_tensorspec": {"features": "[{\"type\": \"tensor\", \"tensor-spec\":
+  {\"dtype\": \"str\", \"shape\": [-1]}}]", "targets": null}}'
+source: '{"tags": {"mlflow.user": "keind", "mlflow.source.name": "E:\\Projects\\Working\\Mentor
+  Asah 2025\\Membuat_Model\\modelling.py", "mlflow.source.type": "LOCAL", "mlflow.source.git.commit":
+  "74e918a812c46bdf69e8d774dc1786cc3323aff7"}}'
+source_type: code

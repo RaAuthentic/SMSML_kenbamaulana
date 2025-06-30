@@ -1,0 +1,14 @@
+artifact_uri: file:///E:/Projects/Working/Mentor%20Asah%202025/Eksperimen_SML_kenbamaulana/Membuat_Model/mlruns/0/0ae197101d4449b0b40640d4053e3711/artifacts
+end_time: 1751040294384
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 0ae197101d4449b0b40640d4053e3711
+run_name: 'Training model '
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1751040259407
+status: 3
+tags: []
+user_id: keind

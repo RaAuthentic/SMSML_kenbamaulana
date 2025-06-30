@@ -1,0 +1,10 @@
+artifact_location: file:///E:/Projects/Working/Mentor Asah 2025/Membuat_Model/mlruns/459356644664296742/models/m-cb71f3d2abc543fcaa0805f76472cda2/artifacts
+creation_timestamp: 1751249737182
+experiment_id: '459356644664296742'
+last_updated_timestamp: 1751249742465
+model_id: m-cb71f3d2abc543fcaa0805f76472cda2
+model_type: null
+name: logistic_pipeline
+source_run_id: 9ad9255373014d599d3aa57fa0cad789
+status: 2
+status_message: null

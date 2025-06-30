@@ -1,0 +1,14 @@
+artifact_uri: file:///E:/Projects/Working/Mentor Asah 2025/Monitoring_Logging/mlruns/0/93df7ebb49f6490190b3815e11413618/artifacts
+end_time: 1751204561454
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 93df7ebb49f6490190b3815e11413618
+run_name: Training_Pipeline_LogReg
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1751204479794
+status: 3
+tags: []
+user_id: keind

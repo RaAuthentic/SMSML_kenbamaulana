@@ -1,0 +1,72 @@
+[
+  {
+    "timestamp": "2025-06-29T21:00:00Z",
+    "inference_requests_total": 1,
+    "inference_success_total": 1,
+    "inference_failure_total": 0,
+    "inference_accuracy": 1
+  },
+  {
+    "timestamp": "2025-06-29T21:00:30Z",
+    "inference_requests_total": 2,
+    "inference_success_total": 1,
+    "inference_failure_total": 0,
+    "inference_accuracy": 0
+  },
+  {
+    "timestamp": "2025-06-29T21:01:00Z",
+    "inference_requests_total": 3,
+    "inference_success_total": 1,
+    "inference_failure_total": 0,
+    "inference_accuracy": 1
+  },
+  {
+    "timestamp": "2025-06-29T21:01:30Z",
+    "inference_requests_total": 4,
+    "inference_success_total": 1,
+    "inference_failure_total": 0,
+    "inference_accuracy": 1
+  },
+  {
+    "timestamp": "2025-06-29T21:02:00Z",
+    "inference_requests_total": 5,
+    "inference_success_total": 1,
+    "inference_failure_total": 0,
+    "inference_accuracy": 0
+  },
+  {
+    "timestamp": "2025-06-29T21:02:30Z",
+    "inference_requests_total": 6,
+    "inference_success_total": 1,
+    "inference_failure_total": 0,
+    "inference_accuracy": 1
+  },
+  {
+    "timestamp": "2025-06-29T21:03:00Z",
+    "inference_requests_total": 7,
+    "inference_success_total": 1,
+    "inference_failure_total": 0,
+    "inference_accuracy": 1
+  },
+  {
+    "timestamp": "2025-06-29T21:03:30Z",
+    "inference_requests_total": 8,
+    "inference_success_total": 1,
+    "inference_failure_total": 0,
+    "inference_accuracy": 0
+  },
+  {
+    "timestamp": "2025-06-29T21:04:00Z",
+    "inference_requests_total": 9,
+    "inference_success_total": 1,
+    "inference_failure_total": 0,
+    "inference_accuracy": 1
+  },
+  {
+    "timestamp": "2025-06-29T21:04:30Z",
+    "inference_requests_total": 10,
+    "inference_success_total": 1,
+    "inference_failure_total": 0,
+    "inference_accuracy": 1
+  }
+]

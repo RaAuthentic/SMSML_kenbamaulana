@@ -1,0 +1,10 @@
+artifact_location: file:///E:/Projects/Working/Mentor%20Asah%202025/Eksperimen_SML_kenbamaulana/Membuat_Model/mlruns/0/models/m-ac5490863ef94f8caae9f4633b676b66/artifacts
+creation_timestamp: 1751248060795
+experiment_id: '0'
+last_updated_timestamp: 1751248069957
+model_id: m-ac5490863ef94f8caae9f4633b676b66
+model_type: null
+name: model
+source_run_id: 7d88c594678344babd40479816f06c82
+status: 2
+status_message: null

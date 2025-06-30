@@ -1,0 +1,22 @@
+artifact_path: file:///E:/Projects/Working/Mentor%20Asah%202025/Eksperimen_SML_kenbamaulana/Membuat_Model/mlruns/0/models/m-614c5e6856ae44f98e083cdde0964ba4/artifacts
+flavors:
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.sklearn
+    model_path: model.pkl
+    predict_fn: predict
+    python_version: 3.10.0
+  sklearn:
+    code: null
+    pickled_model: model.pkl
+    serialization_format: cloudpickle
+    sklearn_version: 1.7.0
+mlflow_version: 3.1.1
+model_id: m-614c5e6856ae44f98e083cdde0964ba4
+model_size_bytes: 133457
+model_uuid: m-614c5e6856ae44f98e083cdde0964ba4
+prompts: null
+run_id: 0bef5a3520864344a66952c5a279a117
+utc_time_created: '2025-06-30 01:41:05.028847'

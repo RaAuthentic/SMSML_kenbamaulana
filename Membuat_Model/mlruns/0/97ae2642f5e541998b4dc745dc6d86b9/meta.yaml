@@ -1,0 +1,14 @@
+artifact_uri: file:///E:/Projects/Working/Mentor%20Asah%202025/Eksperimen_SML_kenbamaulana/Membuat_Model/mlruns/0/97ae2642f5e541998b4dc745dc6d86b9/artifacts
+end_time: 1751036810920
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 97ae2642f5e541998b4dc745dc6d86b9
+run_name: Training model sentimen analisis Amazon
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1751036788753
+status: 3
+tags: []
+user_id: keind
